@@ -4,6 +4,6 @@ A new Flutter project.
 
 ## Design Preview
 
-![Desain View](disneyapp dribblee.jpg)
+![Desain View](disneyapp.jpg)
 
 Design by : https://dribbble.com/karimsaif
